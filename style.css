@@ -126,7 +126,7 @@ form h2 {
 }
 
 .icon {
-    background: url("/images/icon-error.svg") no-repeat;
+    background: url("./images/icon-error.svg") no-repeat;
     background-position: center;
     background-position-x: calc(100% - 20px);
     /* background-size: 20px; */
